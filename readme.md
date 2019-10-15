@@ -80,6 +80,8 @@ void checkButtons()
   }
 }
 ```
+Полную версию кода можно посмотреть в файле [arduino-code.ino](https://github.com/ph1l74/my-own-private-brainringsystem/blob/master/arduino-code.ino);
+
 ## 5. Результат
 ![working](images/inprocess.jpg)
 После пары уикендов пайки и программирования система полностью заработала. Видео тестового запуска можно посмотреть [тут](https://twitter.com/ph1l74/status/1098666316205035520).
